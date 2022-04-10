@@ -1,1 +1,1 @@
-# Hand-Gesture-Recognition-Segmentation-2nd-Project-
+# Hand Gesture Recognition + Segmentation(2nd Project)
