@@ -30,5 +30,5 @@ This was an extension to the previous project based on Machine learning, which w
 - First, a part of the dataset containing Orignal Images were labbeled using VGG annotator tool(https://www.robots.ox.ac.uk/~vgg/software/via/via.html) and the label info or the labelled dataset was stored in (.json) format as shown in Sample Images/Label Images.
 - Second, MaskRCNN was trained using Train_MaskRCNN.ipynb on the labelled dataset and then implemented using Predict_MaskRCNN.ipynb to segment out the gestures from the rest of the images as shown in Sample Images/Segmented Images.
 - Third, by using RESNET50+INCEPTIONV3.ipynb and VGG_16 .ipynb you can perform the real time analysis for Hand Gesture Recognition and can predict the four gestures(Victory, Thumb, Fist, Palm).<br /><br />
-**NOTE:- **
+**NOTE :-**
 **Files used to train and implement MaskRCNN model are present in mrcnn directory** 
